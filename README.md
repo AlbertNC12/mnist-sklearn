@@ -29,7 +29,8 @@ This project demonstrates:
 ## To test the model
 **Open the prediction notebook**
 ``` jupyter notebook Prediction.ipynb ``` 
-
+## Model PreTrain
+- https://drive.google.com/file/d/1f3lWElUTtKNCoXelp1W7TliVfSdb7taw/view?usp=sharing
 # Source
 ## 1. Dataset 
 The MNIST dataset is fetched via [OpenML](https://www.openml.org/d/554) using `sklearn.datasets.fetch_openml`.
@@ -38,3 +39,6 @@ The MNIST dataset is fetched via [OpenML](https://www.openml.org/d/554) using `s
   - matplotlib
   - numpy
   - pandas
+## Acknowledgements
+This project was inspired by the book:
+- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron
