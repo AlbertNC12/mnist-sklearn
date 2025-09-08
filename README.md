@@ -13,7 +13,7 @@ This project demonstrates:
 
 ## Requirments 
 
-- Python **3.10.x **
+- Python 3.10.x 
 - Dependencies listed in `requirements.txt`:
 
 ## How to run 
